@@ -1,0 +1,15 @@
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\bin\Debug\LeetAuth WinForms Example.exe.config
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\bin\Debug\LeetAuth WinForms Example.exe
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\bin\Debug\LeetAuth WinForms Example.pdb
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth_WinForms_Example.Login.resources
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth_WinForms_Example.Properties.Resources.resources
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth_WinForms_Example.Register.resources
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.csproj.GenerateResource.cache
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.csproj.CoreCompileInputs.cache
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.exe
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.pdb
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth_WinForms_Example.Hub.resources
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.csproj.CopyComplete
+C:\Users\Lunar\source\repos\LeetAuth WinForms Example\LeetAuth WinForms Example\obj\Debug\LeetAuth WinForms Example.csprojAssemblyReference.cache
